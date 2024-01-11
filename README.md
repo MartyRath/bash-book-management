@@ -1,9 +1,11 @@
 # bash-book-management
 
-See the full video walkthrough here: https://www.youtube.com/watch?v=vyVWcaVmQtk
-Grade: 90%
-
 The Book Management System is a simple and efficient book management system implemented using shell scripting on Linux Ubuntu.
+
+See the full video walkthrough here: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ooR5srM5H8?si=dGuNvh69uy6TqRjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Grade: 90%
 
 ## Features
 
