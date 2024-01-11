@@ -9,7 +9,7 @@ Grade: 90%
 
 ## Features
 
-- **Add Books:** Easily add new books to your catalog.
-- **Remove Books:** Remove books from your library with a straightforward process.
+- **Add Books:** Easily add new books to your catalogue.
+- **Remove Books:** Remove single or multiple books from the catalogue at a time.
 - **Search and Browse:** Quickly search for books and browse your collection effortlessly.
-- **Generate Reports:** Generate reports to analyze your book inventory.
+- **Generate Reports:** Generate reports to analyse your book inventory.
